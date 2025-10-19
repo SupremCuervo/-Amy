@@ -63,7 +63,7 @@ Cuando uses el logo o menciones el proyecto, incluye esta referencia:
 
 > Amy Programming Language — Diseño de logo por Amy Project (2025)  
 > Licencia: MIT  
-> https://github.com/SupremCuervo/amy
+> https://github.com/SupremCuervo/-Amy
 
 ---
 
