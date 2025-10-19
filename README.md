@@ -12,6 +12,7 @@
 </div>
 
 ### 🌷 Introducción
+**Quieres saber mas en amy-lang.xo.je**
 
 **Amy** es un lenguaje de programación moderno, flexible y humano.  
 Su meta es unir lo mejor de **Python**, **C**, **Rust** y **JavaScript**,  
@@ -96,9 +97,9 @@ Consulta LICENSE para más detalles.
 
 <div align="center">
 💌 Contacto
-📧 contacto@amy-lang.org
-🔒 seguridad@amy-lang.org
-🌐 amy-lang.org (propuesta)
+📧 amy.languagecontact@gmail.com
+🔒 amy.languagecontact@gmail.com
+🌐 amy-lang.xo.je
 
 🌸 “Amy no es solo un lenguaje,
 es una idea: que el código pueda florecer en cualquier idioma.”
