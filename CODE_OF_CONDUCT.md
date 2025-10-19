@@ -61,8 +61,7 @@ Este Código de Conducta aplica a todos los espacios de la comunidad Amy, incluy
 Las violaciones al Código de Conducta pueden ser reportadas al equipo de moderación del proyecto.
 
 **📧 Contacto para reportes:**  
-`comunidad@amy-lang.org`  
-*(puedes usar tu correo personal o uno alternativo)*
+`amy.languagecontact@gmail.com`  
 
 El equipo revisará cada caso con confidencialidad, imparcialidad y respeto.
 
