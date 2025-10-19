@@ -5,7 +5,7 @@
 
 > 💡 *Sencillez en la forma. Poder en el fondo.*
 
-![Amy Logo](https://raw.githubusercontent.com/your-username/amy/main/logo/amy_flower.png)
+![Amy Logo](https://raw.githubusercontent.com/SupremCuervo/-Amy/main/logo/amy_flower.png)
 
 ---
 
