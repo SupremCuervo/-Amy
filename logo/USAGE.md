@@ -51,9 +51,12 @@ No está permitido:
 - Colores: violeta claro, dorado y blanco.  
 - Uso recomendado: sitios web, documentación y materiales de presentación.
 
+![Amy Logo](https://raw.githubusercontent.com/SupremCuervo/-Amy/main/logo/amy_flower.png)
+
 ### ⚫ **Versión monocromática**
 - Color: negro o blanco.  
 - Uso recomendado: documentación técnica, modo oscuro o interfaces minimalistas.
+![Amy Logo](https://raw.githubusercontent.com/SupremCuervo/-Amy/main/logo/amy_flower_black.png)
 
 ---
 
