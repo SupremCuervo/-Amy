@@ -92,7 +92,7 @@ Licencia MIT con atribución extendida.
 
 Consulta LICENSE para más detalles.
 
-© 2025 Amy — Creadora del Lenguaje de Programación Amy 🌸
+© 2025 SupremCuervo — Creadoro del Lenguaje de Programación Amy 🌸
 
 <div align="center">
 💌 Contacto
